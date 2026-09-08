@@ -76,3 +76,8 @@ Thumbs.db
 *.tmp
 *.temp
 .claude/scheduled_tasks.lock
+# Bỏ qua các file rác của Jupyter Notebook & Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
