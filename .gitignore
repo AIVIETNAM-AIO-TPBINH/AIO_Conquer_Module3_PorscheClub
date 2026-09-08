@@ -81,3 +81,6 @@ Thumbs.db
 __pycache__/
 *.pyc
 .DS_Store
+**/data/
+**/models/
+*.joblib
