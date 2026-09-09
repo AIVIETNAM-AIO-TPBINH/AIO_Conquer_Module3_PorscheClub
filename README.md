@@ -1,4 +1,4 @@
-# Sales Forecasting and Demand Prediction Using LightGBM and SHAP
+# Sales Forecasting and Demand Prediction Using Decision Tree, Random Forest, Adaboost & XGboost
 
 **AIO Conquer 2026 — Module 03 · Project 3.2**
 
