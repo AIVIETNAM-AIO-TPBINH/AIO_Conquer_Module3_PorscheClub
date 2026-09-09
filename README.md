@@ -66,13 +66,12 @@ Dataset từ **Kaggle Walmart Recruiting — Store Sales Forecasting**:
 ## Model
 
 5 model bắt buộc:
-1. Decision Tree (baseline)
-2. Random Forest
-3. AdaBoost
-4. Gradient Boosting (GBM)
-5. LightGBM (model chính)
+1. Naive 52 (baseline)
+2. Decision Tree 
+3. Random Forest
+4. AdaBoost
+5. XGBoost
 
-Bổ sung: XGBoost (so sánh)
 
 Xem chi tiết: `docs/01_ideation.md`
 
@@ -82,7 +81,7 @@ Xem chi tiết: `docs/01_ideation.md`
 - Báo cáo kỹ thuật (PDF): metrics, hình SHAP, phân tích lỗi
 - Dashboard Streamlit tổng hợp (5 tab)
 - Environment lock file: `docs/env_locks/environment_lock_<ngày>.txt`
-
+- Demo theo link: https://aioconquermodule3porscheclub-eyiobj6myuqyqvaasnqvwh.streamlit.app/
 ## Liên hệ
 
 Nếu có câu hỏi về kiến trúc hoặc pipeline, xem `docs/00_decisions.md` và `CLAUDE.md`.
